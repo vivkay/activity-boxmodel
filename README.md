@@ -1,4 +1,0 @@
-activity-boxmodel
-=================
-
-Boxmodel Activity

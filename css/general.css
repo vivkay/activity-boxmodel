@@ -46,29 +46,21 @@ body {
 
 h1 {
     margin: 1.5rem;
-    font size: 20rem;
     line-height: 6rem;
     font-family: didot, calisto MT, serif;
     font-size: 600%;
 }
 
 h2 {
-    margin: 1.5rem .5;
-    font size: 2rem;
+    margin: 1.5rem .5rem;
     font-size: 80%;
     line-height: 1.25rem;
     font-family: Didot, Calisto MT, serif;
 }
 
-h1 + p { line-height: 1.5rem;
-    margin: 0 0 1.5rem;
-    font-family: Trebuchet MS, Helvetica, sans-serif;
-    font-style:oblique;
-}
-
 p {
     line-height: 1.5rem;
-    margin: 0 0 1.5rem;
+    margin: 0 .5rem 1.5rem;
     font-family: Trebuchet MS, Helvetica, sans-serif;
     font-style:normal;
     }
